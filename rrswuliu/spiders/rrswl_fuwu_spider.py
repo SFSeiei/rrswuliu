@@ -89,4 +89,4 @@ class RrswlFuwuSpider(scrapy.Spider):
         rrs_fuwu爬虫结束！
         '''
         subject = u'爬虫结束邮件'
-        mailer.send(to=["740969264@qq.com"], subject = subject, body = body)
+        mailer.send(to=["******@qq.com"], subject = subject, body = body)
