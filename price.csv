@@ -27,3 +27,50 @@ ems,http://www.kuaidi.com/data/upload/201407/emss_logo.gif,EMS快递,安徽-安�
 huitongkuaidi,http://www.kuaidi.com/data/upload/201407/htky_logo.gif,百世快递,安徽-安庆市-迎江区,安徽-安庆市-迎江区,8,暂无,0.5
 shentong,http://www.kuaidi.com/data/upload/201407/st_logo.gif,申通快递,安徽-安庆市-迎江区,安徽-安庆市-迎江区,8,暂无,0.5
 tiantian,http://www.kuaidi.com/data/upload/201407/tt_logo.gif,天天快递,安徽-安庆市-迎江区,安徽-安庆市-迎江区,10,暂无,0.5
+exname,logo,name,placefrom,placeto,price,wastetime,weight
+yuantong,http://www.kuaidi.com/data/upload/201407/yt_logo.gif,圆通速递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,10,暂无,0.5
+tiandihuayu,http://www.kuaidi.com/data/upload/201407/tdhy_logo.gif,天地华宇,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,10,第1-2天,0.5
+yunda,http://www.kuaidi.com/data/upload/201407/yd_logo.gif,韵达快运,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8,暂无,0.5
+youzhengguonei,http://www.kuaidi.com/data/upload/201407/yzgn_logo.gif,邮政包裹,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,5.00,暂无,0.5
+ems,http://www.kuaidi.com/data/upload/201407/emss_logo.gif,EMS快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,20,暂无,0.5
+huitongkuaidi,http://www.kuaidi.com/data/upload/201407/htky_logo.gif,百世快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8,暂无,0.5
+shentong,http://www.kuaidi.com/data/upload/201407/st_logo.gif,申通快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8,暂无,0.5
+tiantian,http://www.kuaidi.com/data/upload/201407/tt_logo.gif,天天快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,10,暂无,0.5
+yuantong,http://www.kuaidi.com/data/upload/201407/yt_logo.gif,圆通速递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,10,暂无,1
+zhongtong,http://www.kuaidi.com/data/upload/201407/zt_logo.gif,中通快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8,41.53,1
+quanfengkuaidi,http://www.kuaidi.com/data/upload/201407/qfkd_logo.gif,全峰快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,7,暂无,1
+tiandihuayu,http://www.kuaidi.com/data/upload/201407/tdhy_logo.gif,天地华宇,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,10,第1-2天,1
+yunda,http://www.kuaidi.com/data/upload/201407/yd_logo.gif,韵达快运,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8,暂无,1
+zhaijisong,http://www.kuaidi.com/data/upload/201407/zjs_logo.gif,宅急送,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,9,1~2天,1
+youzhengguonei,http://www.kuaidi.com/data/upload/201407/yzgn_logo.gif,邮政包裹,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8.00,暂无,1
+ems,http://www.kuaidi.com/data/upload/201407/emss_logo.gif,EMS快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,24,暂无,1
+huitongkuaidi,http://www.kuaidi.com/data/upload/201407/htky_logo.gif,百世快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8,暂无,1
+shentong,http://www.kuaidi.com/data/upload/201407/st_logo.gif,申通快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8,暂无,1
+tiantian,http://www.kuaidi.com/data/upload/201407/tt_logo.gif,天天快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,10,暂无,1
+yuantong,http://www.kuaidi.com/data/upload/201407/yt_logo.gif,圆通速递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,11,暂无,2
+tiandihuayu,http://www.kuaidi.com/data/upload/201407/tdhy_logo.gif,天地华宇,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,10,第1-2天,2
+yunda,http://www.kuaidi.com/data/upload/201407/yd_logo.gif,韵达快运,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,11,暂无,2
+youzhengguonei,http://www.kuaidi.com/data/upload/201407/yzgn_logo.gif,邮政包裹,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,8.00,暂无,2
+ems,http://www.kuaidi.com/data/upload/201407/emss_logo.gif,EMS快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,32,暂无,2
+huitongkuaidi,http://www.kuaidi.com/data/upload/201407/htky_logo.gif,百世快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,10,暂无,2
+shentong,http://www.kuaidi.com/data/upload/201407/st_logo.gif,申通快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,12,暂无,2
+tiantian,http://www.kuaidi.com/data/upload/201407/tt_logo.gif,天天快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-龙子湖区,18,暂无,2
+yuantong,http://www.kuaidi.com/data/upload/201407/yt_logo.gif,圆通速递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,10,暂无,0.5
+tiandihuayu,http://www.kuaidi.com/data/upload/201407/tdhy_logo.gif,天地华宇,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,10,第1-2天,0.5
+yunda,http://www.kuaidi.com/data/upload/201407/yd_logo.gif,韵达快运,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,8,暂无,0.5
+youzhengguonei,http://www.kuaidi.com/data/upload/201407/yzgn_logo.gif,邮政包裹,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,5.00,暂无,0.5
+ems,http://www.kuaidi.com/data/upload/201407/emss_logo.gif,EMS快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,20,暂无,0.5
+huitongkuaidi,http://www.kuaidi.com/data/upload/201407/htky_logo.gif,百世快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,8,暂无,0.5
+shentong,http://www.kuaidi.com/data/upload/201407/st_logo.gif,申通快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,8,暂无,0.5
+tiantian,http://www.kuaidi.com/data/upload/201407/tt_logo.gif,天天快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,10,暂无,0.5
+yuantong,http://www.kuaidi.com/data/upload/201407/yt_logo.gif,圆通速递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,10,暂无,1
+zhongtong,http://www.kuaidi.com/data/upload/201407/zt_logo.gif,中通快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,8,41.53,1
+quanfengkuaidi,http://www.kuaidi.com/data/upload/201407/qfkd_logo.gif,全峰快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,7,暂无,1
+tiandihuayu,http://www.kuaidi.com/data/upload/201407/tdhy_logo.gif,天地华宇,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,10,第1-2天,1
+yunda,http://www.kuaidi.com/data/upload/201407/yd_logo.gif,韵达快运,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,8,暂无,1
+zhaijisong,http://www.kuaidi.com/data/upload/201407/zjs_logo.gif,宅急送,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,9,1~2天,1
+youzhengguonei,http://www.kuaidi.com/data/upload/201407/yzgn_logo.gif,邮政包裹,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,8.00,暂无,1
+ems,http://www.kuaidi.com/data/upload/201407/emss_logo.gif,EMS快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,24,暂无,1
+huitongkuaidi,http://www.kuaidi.com/data/upload/201407/htky_logo.gif,百世快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,8,暂无,1
+shentong,http://www.kuaidi.com/data/upload/201407/st_logo.gif,申通快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,8,暂无,1
+tiantian,http://www.kuaidi.com/data/upload/201407/tt_logo.gif,天天快递,安徽-蚌埠市-龙子湖区,安徽-蚌埠市-蚌山区,10,暂无,1

@@ -4498,7 +4498,8 @@ A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
 *** You are running in headless mode.
 1546841300682	Marionette	INFO	Listening on port 56156
 1546841300749	Marionette	WARN	TLS certificate errors will be ignored for this session
-1546841329863	mozrunner::runner	INFO	Running command: "F:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\Shinelon\\AppData\\Local\\Temp\\rust_mozprofile.5tmfiXPELNjP"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\Shinelon\\AppData\\Local\\Temp\\rust_mozprofile.5tmfiXPELNjP"
 *** You are running in headless mode.
 1546841332493	Marionette	INFO	Listening on port 56209
 1546841332741	Marionette	WARN	TLS certificate errors will be ignored for this session
